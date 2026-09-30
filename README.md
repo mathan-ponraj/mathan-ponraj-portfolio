@@ -1,25 +1,24 @@
-## Hey! Let’s build something cool.
+# Hyy! Thnks for choosing me TBH !!
+*Let's build something cool.* - **Mathan**
 
-## Mathan Ponraj
-
-### Python Developer | Data & ML | Generative AI
+**Python Developer | Data & ML | Generative AI**
 
 **Bengaluru, India** · Open to Full-Time Opportunities
 
-> **Building practical data, ML, and GenAI applications with Python, SQL, APIs, and modern AI tools.**
+> **Turning data, code, and AI ideas into practical solutions.**
 
 ## About Me
 
-Hi, I'm Mathan, a Computer Science graduate focused on **Python, Data Engineering, Machine Learning, and GenAI**. I build end-to-end projects involving **ETL pipelines, SQL analytics, ML models, recommendation systems, APIs, and AI applications**.
+I'm a fresh graduate skilled in **Python, Data Engineering, Machine Learning, and GenAI**. I enjoy building things that solve practical problems and working across **ETL pipelines, SQL analytics, ML models, recommendation systems, APIs, and AI applications**.
 
-Currently developing hands-on expertise in **LLMs and RAG** and transforming my **TrendTube and LapPick** projects into more practical GenAI applications.
+Currently cooking something special — transforming **TrendTube** and **LapPick** into practical **LLM + RAG applications** and exploring how modern AI tools can make these projects more useful in real-world scenarios.
 
-I'm looking for opportunities in **Data Science, ML/AI Engineering, or Python development** where I can contribute to real-world products while continuing to grow.
+I'm looking for opportunities in **Data Science, ML/AI Engineering, or Python development** where I can contribute to real-world projects, learn from the team, and keep growing.
 
 ## Skills
 
 **Programming:** Python · SQL · Java  
-**Data Engineering:** Pandas · NumPy · ETL · SQLite · PostgreSQL · Apache Airflow  
+**Data Engineering:** Pandas · NumPy · ETL · SQLite · PostgreSQL  
 **Machine Learning:** Scikit-learn · XGBoost · Feature Engineering · Model Evaluation  
 **GenAI:** LLMs · Prompt Engineering · RAG · Embeddings · LLM APIs  
 **Backend:** Flask · REST APIs · Streamlit  
@@ -30,7 +29,7 @@ I'm looking for opportunities in **Data Science, ML/AI Engineering, or Python de
 
 ### LapPick — Intelligent Laptop Recommendation System
 
-ML-powered application that recommends suitable laptops based on **budget and hardware requirements** using XGBoost-predicted ratings.
+A machine learning application that helps users find suitable laptops based on their **budget and hardware requirements**. The system uses **XGBoost-predicted ratings** to rank matching laptops and provides the top recommendations through a Streamlit interface.
 
 **Python · XGBoost · Scikit-learn · Pandas · Streamlit**
 
@@ -38,7 +37,7 @@ ML-powered application that recommends suitable laptops based on **budget and ha
 
 ### TrendTube — YouTube Trending Data ETL Pipeline
 
-Automated **ETL pipeline** that extracts trending YouTube data through the YouTube Data API, cleans and transforms the dataset using Pandas, loads it into SQLite, and generates SQL-based analytics.
+An automated **ETL pipeline** that collects trending YouTube data through the YouTube Data API, cleans and transforms it using Pandas, loads the data into SQLite, and uses SQL queries to analyze video performance and engagement.
 
 **Python · Pandas · YouTube Data API · SQLite · SQL**
 
@@ -46,7 +45,7 @@ Automated **ETL pipeline** that extracts trending YouTube data through the YouTu
 
 ### AutoPrice — Automotive Pricing Intelligence
 
-Machine learning project for **used-car price prediction and pricing analysis**, supported by a Power BI dashboard for business-oriented insights.
+A machine learning project for **used-car price prediction and pricing analysis**, supported by a Power BI dashboard to turn the model results into easy-to-understand business insights.
 
 **Python · Scikit-learn · Linear Regression · Power BI**
 
@@ -61,4 +60,4 @@ Government College of Engineering, Bodinayakanur · 2020–2024
 
 [LinkedIn](https://www.linkedin.com/in/mathan03/) · [GitHub](https://github.com/mathan-ponraj/) · **mathanponraj03@gmail.com**
 
-**Open to Data Science | ML/AI Engineering | Python Developer roles**
+**Open to Data Science · ML/AI Engineering · Python Developer roles**
