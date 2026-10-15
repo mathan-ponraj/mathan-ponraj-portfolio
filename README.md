@@ -1,7 +1,7 @@
 # Hyy! Thnks for choosing me TBH !!
 *Let's build something cool.* - **Mathan**
 
-**Python Developer | Data & ML | Generative AI**
+**Sofware Developer | Data & ML | Backend and AI Development**
 
 **Bengaluru, India** · Open to Full-Time Opportunities
 
@@ -17,8 +17,8 @@ I'm looking for opportunities in **Data Science, ML/AI Engineering, or Python de
 
 ## Skills
 
-**Programming:** Python · SQL · Java  
-**Data Engineering:** Pandas · NumPy · ETL · SQLite · PostgreSQL  
+**Programming:** Python · SQL · Java  <p align="left"> <img src="https://skillicons.dev/icons?i=python,java,js" alt="Python, Java, JavaScript" /> </p>
+**Data Engineering:** Pandas · NumPy · ETL · SQLite · PostgreSQL  <p align="left"> <img src="https://skillicons.dev/icons?i=flask,html,css,sqlite,postgres" alt="Flask, HTML, CSS, SQLite, PostgreSQL" /> </p>
 **Machine Learning:** Scikit-learn · XGBoost · Feature Engineering · Model Evaluation  
 **GenAI:** LLMs · Prompt Engineering · RAG · Embeddings · LLM APIs  
 **Backend:** Flask · REST APIs · Streamlit  
@@ -43,6 +43,13 @@ An automated **ETL pipeline** that collects trending YouTube data through the Yo
 
 [Source Code](https://github.com/mathan-ponraj/YouTube-Trending-Video-Analytics)
 
+### EduHelpDesk — Multi-Role Student Administrative Support & Ticket Management System
+
+A web-based application designed to streamline student support and administrative workflows through a centralized helpdesk system. It brings student queries, support tickets, and administrative tasks into one platform with role-based access.
+
+**Python · Flask · SQLite · HTML · CSS · JavaScript · REST APIs**
+[Source Code](https://github.com/mathan-ponraj/EduHelpDesk)
+
 ### AutoPrice — Automotive Pricing Intelligence
 
 A machine learning project for **used-car price prediction and pricing analysis**, supported by a Power BI dashboard to turn the model results into easy-to-understand business insights.
@@ -60,4 +67,4 @@ Government College of Engineering, Bodinayakanur · 2020–2024
 
 [LinkedIn](https://www.linkedin.com/in/mathan03/) · [GitHub](https://github.com/mathan-ponraj/) · **mathanponraj03@gmail.com**
 
-**Open to Data Science · ML/AI Engineering · Python Developer roles**
+**Open to Data Scientist · ML/AI Engineering · Python Developer roles**
